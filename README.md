@@ -8,9 +8,8 @@ This dataset contains information on default payments, demographic factors, cred
 
 ## Project Overview
 The analysis consists of 2 Jupyter notebooks and a report explaining the overall workflow and methodology used:
-1. Exploratory Data Analysis
-2. Machine Learning Training Code
-3. Credit Card Default Classifier Prediction Lieklihood Report
+1. Machine Learning Code
+2. Credit Card Default Classifier Prediction Lieklihood Report
 
 Machine Learning Models Used:
 1.Logistic Regression
@@ -18,3 +17,9 @@ Machine Learning Models Used:
 3.Neural Network
 4.Naive Bayes
 5.K-Nearest Neighbours
+
+Techniques Applied:
+1.PCA
+2.Oversampling (SMOTE)
+3.Undersampling (randomsampler)
+4.Combinedsampling (smote-enn)
